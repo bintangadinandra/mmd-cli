@@ -1,0 +1,16 @@
+{
+  "name": "mmd-cli",
+  "version": "1.0.0",
+  "description": "Personal CLI for Bintang Adinandra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "author": "bintangadinandra@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.18.0"
+  }
+}
